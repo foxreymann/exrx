@@ -1,5 +1,3 @@
-fox
-
 # physio
 
 ## shoulders
