@@ -17,12 +17,15 @@ step hands out to a point you can control
 
 ![](./shoulder3.png)
 
+### Band Reverse Fly
+
+[<img src=./reverse-fly.png target='_blank' height=300px>](https://www.youtube.com/watch?v=38leTE2y1I8)
+
 ### Press Up Against Wall
 
 <video width=400 controls="controls">
   <source type="video/mp4" src="https://res.cloudinary.com/rehabguru/video/upload/vc_auto,q_auto/exercisevideos/277675016.mp4?ngsw-bypass"></source>
 </video>
-
 
 # hypertrophy
 
