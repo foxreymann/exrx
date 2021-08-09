@@ -19,7 +19,9 @@ step hands out to a point you can control
 
 ### Band Reverse Fly
 
-[<img src=./reverse-fly.png target='_blank' height=300px>](https://www.youtube.com/watch?v=38leTE2y1I8)
+<img src=./reverse-fly.png height=300 />
+
+[youtube](https://www.youtube.com/watch?v=38leTE2y1I8)
 
 ### Press Up Against Wall
 
