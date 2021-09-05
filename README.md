@@ -44,3 +44,7 @@ Tilt your head to the side, rest your hand on your head and stretch for 30 secon
 Turn your head, look under your arm pit and take your hand to the back of your head and hold 30 secs again.
 
 ![](./shoulder1.png)
+
+### hamstring stretch
+
+![](./hamstring-stretch-1.png)
